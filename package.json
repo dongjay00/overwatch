@@ -1,0 +1,25 @@
+{
+  "name": "overwatch",
+  "version": "1.0.0",
+  "description": "> 캐릭터 클릭시 캐릭터 소개페이지로 이동 / 로고 클릭 시 오버워치 메인 사이트 이동",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongjay00/overwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongjay00/overwatch/issues"
+  },
+  "homepage": "https://github.com/dongjay00/overwatch#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.35.1"
+  }
+}
